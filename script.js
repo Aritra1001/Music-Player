@@ -5,7 +5,7 @@ const songsJSON = [
     artist: "Ed Sheeran",
     img: "images/shape_of_you.jpg",
     genre: "Pop",
-    source: "songs/shape_of_you.mp3",
+    source: "songs/the-shape-of-disorder-410788.mp3",
   },
   {
     id: 2,
@@ -13,7 +13,8 @@ const songsJSON = [
     artist: "The Weeknd",
     img: "images/blinding_lights.jpg",
     genre: "Synthwave",
-    source: "songs/blinding_lights.mp3",
+    source:
+      "songs/nostalgic-cinematic-piano-happy-trap-beat-prod-by-onesevenbeatxs-333945.mp3",
   },
   {
     id: 3,
@@ -21,7 +22,7 @@ const songsJSON = [
     artist: "Imagine Dragons",
     img: "images/believer.jpg",
     genre: "Rock",
-    source: "songs/believer.mp3",
+    source: "songs/lose-my-mind-indian-drill-music-20931.mp3",
   },
   {
     id: 4,
@@ -29,14 +30,14 @@ const songsJSON = [
     artist: "Adele",
     img: "images/believer.jpg",
     genre: "Rock",
-    source: "songs/believer.mp3",
+    source: "songs/into-the-night-80s-retro-synthwave-22160.mp3",
   },
   {
     id: 5,
     name: "Lose Yourself",
     artist: "Eminem",
     img: "images/believer.jpg",
-    genre: "Rock",
-    source: "songs/believer.mp3",
+    genre: "Hip-Hop",
+    source: "songs/all-of-me-piano-version-168903.mp3",
   },
 ];
