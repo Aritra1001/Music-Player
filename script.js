@@ -1,0 +1,42 @@
+const songsJSON = [
+  {
+    id: 1,
+    name: "Shape of You",
+    artist: "Ed Sheeran",
+    img: "images/shape_of_you.jpg",
+    genre: "Pop",
+    source: "songs/shape_of_you.mp3",
+  },
+  {
+    id: 2,
+    name: "Blinding Lights",
+    artist: "The Weeknd",
+    img: "images/blinding_lights.jpg",
+    genre: "Synthwave",
+    source: "songs/blinding_lights.mp3",
+  },
+  {
+    id: 3,
+    name: "Believer",
+    artist: "Imagine Dragons",
+    img: "images/believer.jpg",
+    genre: "Rock",
+    source: "songs/believer.mp3",
+  },
+  {
+    id: 4,
+    name: "All of Me",
+    artist: "Adele",
+    img: "images/believer.jpg",
+    genre: "Rock",
+    source: "songs/believer.mp3",
+  },
+  {
+    id: 5,
+    name: "Lose Yourself",
+    artist: "Eminem",
+    img: "images/believer.jpg",
+    genre: "Rock",
+    source: "songs/believer.mp3",
+  },
+];
